@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with best Alfred for macOS Integration | version history + reminders, the #1 integration. Includes version history and reminders for a smoother experience.
 
 
 
